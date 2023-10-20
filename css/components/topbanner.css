@@ -1,0 +1,13 @@
+.topbanner {
+	background-color: black;
+	padding: 10px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.topbanner img {
+	margin-left: 750px;
+	margin-bottom: 30px;
+
+
+}

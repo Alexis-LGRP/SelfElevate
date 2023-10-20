@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&family=Nunito+Sans:opsz,wght@6..12,200&display=swap');
+@import url('components/container.css');
+@import url('components/avatar.css');
+@import url('components/button.css');
+@import url('components/banner.css');
+@import url('components/card.css');
+@import url('components/span.css');
+@import url('components/topbanner.css');
+
+
+body {
+	font-family: 'Nunito Sans';
+	font-size: 18px;
+	margin: 0px;
+	background: linear-gradient(gray,black);
+	color: white;
+}
